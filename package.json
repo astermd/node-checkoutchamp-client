@@ -1,6 +1,6 @@
 {
   "name": "@astermd-hq/checkoutchamp-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unofficial Node.js client for the Checkout Champ API: orders, leads, upsales, campaigns, customers, transactions and lander clicks, with opt-in redacted request logging.",
   "keywords": [
     "checkoutchamp",
@@ -13,15 +13,15 @@
     "payments"
   ],
   "license": "MIT",
-  "author": "AsterMD <admin@astermd.com>",
-  "homepage": "https://github.com/astermd/npm-checkoutchamp-client",
+  "author": "AsterMD <hello@astermd.com>",
+  "homepage": "https://github.com/astermd/node-checkoutchamp-client",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astermd/npm-checkoutchamp-client.git"
+    "url": "git+https://github.com/astermd/node-checkoutchamp-client.git"
   },
   "bugs": {
-    "url": "https://github.com/astermd/npm-checkoutchamp-client/issues",
-    "email": "admin@astermd.com"
+    "url": "https://github.com/astermd/node-checkoutchamp-client/issues",
+    "email": "hello@astermd.com"
   },
   "type": "module",
   "main": "./dist/index.cjs",
@@ -43,7 +43,8 @@
   "files": [
     "dist",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "NOTICE.md"
   ],
   "sideEffects": false,
   "engines": {

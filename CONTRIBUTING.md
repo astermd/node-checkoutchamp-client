@@ -6,7 +6,7 @@ way matters as much as adding to it.
 ## Getting set up
 
 ```bash
-git clone https://github.com/astermd/npm-checkoutchamp-client.git
+git clone https://github.com/astermd/node-checkoutchamp-client.git
 cd checkoutchamp-client
 npm ci
 ```
@@ -81,6 +81,6 @@ not left for a later release to catch up on.
 
 ## Questions
 
-Open an issue at <https://github.com/astermd/npm-checkoutchamp-client/issues>, or
-email **admin@astermd.com**. Report a security vulnerability privately instead
+Open an issue at <https://github.com/astermd/node-checkoutchamp-client/issues>, or
+email **hello@astermd.com**. Report a security vulnerability privately instead
 — see [SECURITY.md](SECURITY.md).

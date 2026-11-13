@@ -490,6 +490,6 @@ URLs — inside your PCI DSS scope.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). The trademark and affiliation notice is in [NOTICE.md](NOTICE.md).
+© 2026 CodeClouds™ DBA AsterMD. MIT — see [LICENSE](LICENSE). The trademark and affiliation notice is in [NOTICE.md](NOTICE.md).
 
 Maintained by [AsterMD](https://www.astermd.com/). Contact: hello@astermd.com

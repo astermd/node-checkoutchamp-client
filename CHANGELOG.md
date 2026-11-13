@@ -5,6 +5,12 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.3] - 2026-11-13
+
+### Changed
+
+- Documentation and package metadata only: repository renamed to `node-checkoutchamp-client`, contact email updated, trademark and affiliation notice moved from `LICENSE` to `NOTICE.md` (now shipped in the package).
+
 ## [0.0.2] - 2026-10-14
 
 ### Added
@@ -86,4 +92,4 @@ First release.
   covering every public method and asserting the URL, HTTP method, headers and
   query parameters, running on Node 22 and 24 in CI.
 
-[0.0.1]: https://github.com/astermd/npm-checkoutchamp-client/releases/tag/v0.0.1
+[0.0.1]: https://github.com/astermd/node-checkoutchamp-client/releases/tag/v0.0.1

@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.astermd.com/"><img src="https://raw.githubusercontent.com/astermd/node-checkoutchamp-client/main/.github/assets/astermd-logo.svg" alt="AsterMD" height="48"></a>
+</p>
+
 # @astermd-hq/checkoutchamp-client
 
 A small, dependency-free Node.js client for the Checkout Champ API — orders,
@@ -8,7 +12,7 @@ opt-in request logging that is redacted by default.
 > Checkout Champ Node.js SDK and is not affiliated with, endorsed by or
 > supported by Checkout Champ. "Checkout Champ" and related marks belong to
 > their owner, <https://checkoutchamp.com/>. The name is used here only to
-> identify the API this library talks to. See [LICENSE](LICENSE) for the full
+> identify the API this library talks to. See [NOTICE.md](NOTICE.md) for the full
 > notice.
 
 API reference: **<https://apidocs.checkoutchamp.com/>**
@@ -466,8 +470,8 @@ suite makes a network call.
 
 ## Support
 
-Email **admin@astermd.com**, or open an issue at
-<https://github.com/astermd/npm-checkoutchamp-client/issues>.
+Email **hello@astermd.com**, or open an issue at
+<https://github.com/astermd/node-checkoutchamp-client/issues>.
 
 Report security issues privately — see [SECURITY.md](SECURITY.md). Do not open
 a public issue for a vulnerability.
@@ -486,4 +490,6 @@ URLs — inside your PCI DSS scope.
 
 ## License
 
-MIT — see [LICENSE](LICENSE), including the trademark and affiliation notice.
+MIT — see [LICENSE](LICENSE). The trademark and affiliation notice is in [NOTICE.md](NOTICE.md).
+
+Maintained by [AsterMD](https://www.astermd.com/). Contact: hello@astermd.com
